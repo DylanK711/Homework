@@ -1,4 +1,4 @@
-import random
+"""import random
 
 
 
@@ -41,4 +41,15 @@ def check_guess(num1, num2):
         else:
             input("Try again: ")
        
-start_game()
+start_game()"""
+
+bill = 7
+
+if bill == 4:
+    print("4")
+elif bill == 3:
+    print("3")
+elif bill == 5:
+    print("5")
+else:
+    print("try again")
